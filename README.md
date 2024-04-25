@@ -1,9 +1,9 @@
 ### Hi there 👋
-## I am Fernando K. Minami
+## I am **Fernando K. Minami**
 
-- 🔭 I’m currently working with Html and CSS
-- 🌱 Learning Javascript and MEAN on Udemy and studying Systems Analysis and Development at Cruzeiro do Sul
-- 📫 Whatsapp: +55 (11) 98489-3527
+- 🔭 I’m currently working with **Html** and **CSS**
+- 🌱 Learning Javascript and **MEAN** on Udemy and studying **Systems Analysis and Development at Cruzeiro** do Sul
+- 📫 Whatsapp: [+55 (11) 98489-3527](https://api.whatsapp.com/send?phone=5511984893527&text=Hello%20I%20am%20...%20And%20found%20you%20on%20Github)
 
 <a href="https://github.com/fernandominami/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&theme=dark" />
