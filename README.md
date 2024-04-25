@@ -5,8 +5,12 @@
 - 🌱 Learning Javascript and MEAN on Udemy and studying Systems Analysis and Development at Cruzeiro do Sul
 - 📫 Whatsapp: +55 (11) 98489-3527
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&theme=dark)
-
+<a href="https://github.com/fernandominami/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&theme=dark" />
+</a>
+<a href="https://github.com/fernandominami/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&layout=compact&theme=dark" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ts" height="30" width="30" src="https://maxrabbitdesign.com/images/mean-stack.svg">
