@@ -6,10 +6,10 @@
 - 📫 Whatsapp: +55 (11) 98489-3527
 
 <a href="https://github.com/fernandominami/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&theme=dark" />
 </a>
 <a href="https://github.com/fernandominami/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&layout=compact&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&layout=compact&theme=dark" />
 </a>
 
 <div style="display: inline_block"><br>
