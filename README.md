@@ -13,7 +13,6 @@
 </a>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ts" height="30" width="30" src="https://maxrabbitdesign.com/images/mean-stack.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -36,6 +35,3 @@
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 </div>
 
-<p align="left">
-  <img height=150 align="center" src="https://api.boot.dev/v1/users/public/6282329c-609d-45eb-860a-ceedf8d2fa83/thumbnail" >
-</p>
