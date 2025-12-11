@@ -5,13 +5,6 @@
 - 🌱 Learning and **MEAN** on Udemy and studying **Systems Analysis and Development at Cruzeiro** do Sul
 - 📫 Whatsapp: [+55 (11) 98489-3527](https://api.whatsapp.com/send?phone=5511984893527&text=Hello%20I%20am%20...%20And%20found%20you%20on%20Github)
 
-<a href="https://github.com/fernandominami/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&theme=dark" />
-</a>
-<a href="https://github.com/fernandominami/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandominami&show_icons=true&exclude_repo=FernandoMinami&layout=compact&theme=dark" />
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
