@@ -7,10 +7,10 @@
 </br>
 </br>
 
-[![FernandoMinami's Top Langs](https://github-readme-stats-wheat-eight-93.vercel.app/api/top-langs/?username=FernandoMinami&layout=compact&theme=dark)](https://github.com/FernandoMinami/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats-wheat-eight-93.vercel.app/api/wakatime?username=FernandoMinami&theme=dark)](https://github.com/FernandoMinami/github-readme-stats)
+![FernandoMinami's Top Langs](https://github-readme-stats-wheat-eight-93.vercel.app/api/top-langs/?username=FernandoMinami&layout=compact&theme=dark)
+![FernandoMinami's WakaTime stats](https://github-readme-stats-wheat-eight-93.vercel.app/api/wakatime?username=FernandoMinami&theme=dark)
 </br>
-[![FernandoMinami's GitHub stats](https://github-readme-stats-wheat-eight-93.vercel.app/api?username=FernandoMinami&theme=dark)](https://github.com/FernandoMinami/github-readme-stats)
+![FernandoMinami's GitHub stats](https://github-readme-stats-wheat-eight-93.vercel.app/api?username=FernandoMinami&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
