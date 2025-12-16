@@ -4,6 +4,13 @@
 - 🔭 I’m currently working with **Html**, **CSS** and **Javascript** 
 - 🌱 Learning and **MEAN** on Udemy and studying **Systems Analysis and Development at Cruzeiro** do Sul
 - 📫 Whatsapp: [+55 (11) 98489-3527](https://api.whatsapp.com/send?phone=5511984893527&text=Hello%20I%20am%20...%20And%20found%20you%20on%20Github)
+</br>
+</br>
+
+[![FernandoMinami's Top Langs](https://github-readme-stats-wheat-eight-93.vercel.app/api/top-langs/?username=FernandoMinami&layout=compact&theme=dark)](https://github.com/FernandoMinami/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-wheat-eight-93.vercel.app/api/wakatime?username=FernandoMinami&theme=dark)](https://github.com/FernandoMinami/github-readme-stats)
+</br>
+[![FernandoMinami's GitHub stats](https://github-readme-stats-wheat-eight-93.vercel.app/api?username=FernandoMinami&theme=dark)](https://github.com/FernandoMinami/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
